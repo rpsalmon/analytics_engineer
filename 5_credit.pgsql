@@ -1,0 +1,1 @@
+select distinct * from credit_cards;
